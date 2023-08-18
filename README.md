@@ -9,27 +9,27 @@ The objective of this design is to simplify and streamline the user experience w
 
 ### Strategic Solutions: A Developer's Problem-Solving Paradigm
 
-1. Service Section
+1. Search Details Section
 
-   Within the Service Section, a sophisticated account number search bar has been integrated. This feature allows the selection of multiple accounts, such as your home or workplace, to facilitate payments for various services, including electricity bills, heating gas bills, and online taxes.
+   Within the Search Details Section, a sophisticated User ID search bar has been integrated. This feature allows the selection of multiple accounts, such as your home or workplace, to facilitate payments for various services like electricity bills, online taxes etc.
 
    This integration empowers users with a seamless and efficient payment experience, bringing together technology and convenience in a harmonious blend.
 
-2. Latest Transfers Section
+2. Past Transactions
 
-   The Latest Transfers Section encompasses recently executed transactions, reflecting money transfers for diverse purposes such as purchases, subscriptions, and ticket bookings. Displaying the last four digits of the account number, along with the transaction date and the transferred amount, this section additionally integrates a filter. This filter empowers users to customize their view, allowing them to observe transactions surpassing or falling below a specific monetary threshold, enhancing the precision and relevancy of their financial insights.
+   The Past Transactions Section encompasses recently executed transactions, reflecting money transfers for diverse purposes such as purchases, subscriptions, ticket bookings etc. Displaying the last four digits of the account number, along with the transaction date and the transferred amount, this section additionally integrates a filter. This filter empowers users to customize their view, allowing them to observe transactions surpassing or falling below a specific monetary threshold, enhancing the precision and relevancy of their financial insights.
 
    This solution ensures users stay informed, without compromising on clarity.
 
-3. New Payment Section
+3. Linked Payment Accounts Section
 
-   The New Payment Section encompasses upcoming payments, displaying the due date, last four digits of the target account, category, and payment amount. An additional button offers users the option to access further details. Moreover, users are provided with the flexibility to use their preferred payment card – be it VISA or MasterCard – to facilitate the payment process, adding an extra layer of convenience.
+   The Linked Payment Accounts Section encompasses upcoming payments, displaying the due date, last four digits of the target account, category, and payment amount. An additional button offers users the option to access further details. Moreover, users are provided with the flexibility to use their preferred payment card – be it VISA or MasterCard – to facilitate the payment process, adding an extra layer of convenience.
 
    This solution streamlines financial tracking, empowers timely payments, and enhances user control, addressing common challenges in transaction management.
 
-4. Ask Me a Question Section with FAQs
+4. Ask Me a Question Section
 
-   The Ask Me a Question Section with FAQs brings a game-changing solution by using smart AI to instantly answer user questions. By combining AI with a carefully crafted list of FAQs, users get quick responses, making them more engaged and confident.
+   The Ask Me a Question Section brings a game-changing solution by using smart AI to instantly answer user questions. By combining AI with a carefully crafted list of FAQs, users get quick responses, making them more engaged and confident.
 
 ### Holistic Problem Solving: Going Beyond Interface Design
 
