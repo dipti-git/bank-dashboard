@@ -7,28 +7,34 @@ From developer's perspective, let's dissect the strategic problem-solving that h
 
 The objective of this design is to simplify and streamline the user experience within the payment section. Financial transactions can be complex which demands a cohesive, user-centric interface that cateres to a diverse user base and mitigates the complexities that come inherently with such transactions.
 
+![DashBoard](images/Dashboard.jpeg)
+
 ### Strategic Solutions: A Developer's Problem-Solving Paradigm
 
 1. Search Details Section
 
+   ![Search Details Section](images/Search%20Details.jpeg)
    Within the Search Details Section, a sophisticated User ID search bar has been integrated. This feature allows the selection of multiple accounts, such as your home or workplace, to facilitate payments for various services like electricity bills, online taxes etc.
 
    This integration empowers users with a seamless and efficient payment experience, bringing together technology and convenience in a harmonious blend.
 
 2. Past Transactions
 
+   ![Past Transactions](images/Past%20Transactions.jpeg)
    The Past Transactions Section encompasses recently executed transactions, reflecting money transfers for diverse purposes such as purchases, subscriptions, ticket bookings etc. Displaying the last four digits of the account number, along with the transaction date and the transferred amount, this section additionally integrates a filter. This filter empowers users to customize their view, allowing them to observe transactions surpassing or falling below a specific monetary threshold, enhancing the precision and relevancy of their financial insights.
 
    This solution ensures users stay informed, without compromising on clarity.
 
 3. Linked Payment Accounts Section
 
+   ![Linked Payment Section](images/Linked%20Payments.jpeg)
    The Linked Payment Accounts Section encompasses upcoming payments, displaying the due date, last four digits of the target account, category, and payment amount. An additional button offers users the option to access further details. Moreover, users are provided with the flexibility to use their preferred payment card – be it VISA or MasterCard – to facilitate the payment process, adding an extra layer of convenience.
 
    This solution streamlines financial tracking, empowers timely payments, and enhances user control, addressing common challenges in transaction management.
 
 4. Ask Me a Question Section
 
+   ![Ask me a Question](images/Ask%20Question.jpeg)
    The Ask Me a Question Section brings a game-changing solution by using smart AI to instantly answer user questions. By combining AI with a carefully crafted list of FAQs, users get quick responses, making them more engaged and confident.
 
 ### Holistic Problem Solving: Going Beyond Interface Design
