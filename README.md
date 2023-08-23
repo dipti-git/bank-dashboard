@@ -1,4 +1,4 @@
-## Exploring a UI Design: Optimizing User-Centric Payment Experiences
+## Optimizing User-Centric Payment Experiences
 
 In the ever-evolving landscape of web development, each project presents an intricate puzzle waiting to be unraveled. This repository consists of a User Interface that has refined the payment section of a dashboard to enhance user-friendliness.
 From the developer's perspective, let's dissect the strategic problem-solving that has led to the outcomes.
