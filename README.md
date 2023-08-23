@@ -1,11 +1,11 @@
-## Exploring a Clever UI Design: Solving User Problems in Payment Section
+## Exploring a UI Design: Optimizing User-Centric Payment Experiences
 
-In the ever-evolving landscape of web development, each project presents an intricate puzzle waiting to be unraveled. This repository consists of a a User Interface that has refined the payment section of a dashboard to enhance user friendliness.
-From developer's perspective, let's dissect the strategic problem-solving that has led to the outcomes.
+In the ever-evolving landscape of web development, each project presents an intricate puzzle waiting to be unraveled. This repository consists of a User Interface that has refined the payment section of a dashboard to enhance user-friendliness.
+From the developer's perspective, let's dissect the strategic problem-solving that has led to the outcomes.
 
 ### Objective: Streamlining Payment Processes
 
-The objective of this design is to simplify and streamline the user experience within the payment section. Financial transactions can be complex which demands a cohesive, user-centric interface that cateres to a diverse user base and mitigates the complexities that come inherently with such transactions.
+The objective of this design is to simplify and streamline the user experience within the payment section. Financial transactions can be complex which demands a cohesive, user-centric interface that caters to a diverse user base and mitigates the complexities that come inherently with such transactions.
 
 ![DashBoard](images/Dashboard.jpeg)
 
